@@ -5,7 +5,7 @@ all.clear
 end
 
 def count
-@@artists.count
+all.count
 end
 
 
